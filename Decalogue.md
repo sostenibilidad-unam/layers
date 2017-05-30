@@ -16,9 +16,9 @@
 
 8. Data layers available for analysis will be stored in the following folders:
 
-Final versions of inputs/outputs of models:  **/Dropbox/Megadapt_integracion/layers/final **
+Final versions of inputs/outputs of models:  **/Dropbox/Megadapt_integracion/layers/final**
 
-Older versions of inputs/outputs of models: **/Dropbox/Megadapt_integracion/layers/old **
+Older versions of inputs/outputs of models: **/Dropbox/Megadapt_integracion/layers/old**
 
 Any other data layer available: **/Dropbox/Megadapt_integracion/layers/miscellaneous**
 
