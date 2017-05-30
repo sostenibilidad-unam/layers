@@ -1,5 +1,5 @@
 ## Data layer decalogue
-
+0. All comments, requests and logs must be made in English.
 1. All data must have metadata to be used in the project.
 
 2. Teammates will have access to two Dropbox folders: (1) to upload new data **/Dropbox/Megadapt_integracion/CarpetasTrabajo** & (2) to access all data layers available  **/Dropbox/Megadapt_integracion/layers**
