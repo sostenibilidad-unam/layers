@@ -25,7 +25,9 @@ Any other data layer available: **/Dropbox/Megadapt_integracion/layers/miscellan
 
 <ol start="9">
   <li>
-  A description of the most important features of all the data layers available are continually updated in the following catalog: **/Dropbox/Megadapt_integracion/layers/GIS_catalog.xlsx** (if an item needs to be translated from the catalog to ensure a correct interpretation of the data, please create an issue)
+  A description of the most important features of all the data layers available are continually updated in the following catalog:
+  **/Dropbox/Megadapt_integracion/layers/GIS_catalog.xlsx** 
+  (if an item needs to be translated from the catalog to ensure a correct interpretation of the data, please create an issue)
     <li>
 
   To ensure the protection of data, Github will not be used as a repository. Therefore,  Dropbox links must not be posted, only paths with the location of the file(s).
