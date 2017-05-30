@@ -4,7 +4,8 @@
 
 2. Teammates will have access to two Dropbox folders: (1) to upload new data **/Dropbox/Megadapt_integracion/CarpetasTrabajo** & (2) to access all data layers available  **/Dropbox/Megadapt_integracion/layers**
 
-3. Teammates can deliver new data sets by uploading them to their personal folder under **/Dropbox/Megadapt_integracion/CarpetasTrabajo **
+3. Teammates can deliver new data sets by uploading them to their personal folder under **/Dropbox/Megadapt_integracion/CarpetasTrabajo**
+
 4. Teammates responsible for generating new data must ensure the data manager is aware of its existence (Github or edith@multicriteria.org). The data manager will review the data uploaded and store the data in the final repository to make it available to the team.
 
 5. Github is the tool to discuss and communicate modifications, updates and processing data layers.
