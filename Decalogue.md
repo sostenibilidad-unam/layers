@@ -26,7 +26,7 @@ Any other data layer available: **/Dropbox/Megadapt_integracion/layers/miscellan
 <ol start="9">
   <li>
   A description of the most important features of all the data layers available are continually updated in the following catalog:
-  **/Dropbox/Megadapt_integracion/layers/GIS_catalog.xlsx** 
+  /Dropbox/Megadapt_integracion/layers/GIS_catalog.xlsx
   (if an item needs to be translated from the catalog to ensure a correct interpretation of the data, please create an issue)
     <li>
 
